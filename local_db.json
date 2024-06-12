@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "scheduleName": "Lịch tưới cam",
+    "description": "Không",
+    "startTime": "17:00",
+    "stopTime": "17:10",
+    "area": 1,
+    "flow1": 10,
+    "flow2": 10,
+    "flow3": 10,
+    "cycle": 1,
+    "everyday": 1,
+    "date": ""
+  },
+  {
+    "id": 1,
+    "scheduleName": "Lịch tưới mận",
+    "description": "Lịch mận",
+    "startTime": "16:50",
+    "stopTime": "16:55",
+    "area": 1,
+    "flow1": 8,
+    "flow2": 8,
+    "flow3": 8,
+    "cycle": 2,
+    "everyday": 1,
+    "date": ""
+  }
+]

@@ -8,7 +8,7 @@ class AdafruitMQTT:
     def __init__(self):
 
         if load_dotenv():
-            self.AIO_FEED_IDS = ["nutnhan1", "nutnhan2"]
+            self.AIO_FEED_IDS = ["schedules"]
             self.AIO_USERNAME = os.getenv("AIO_USERNAME")
             self.AIO_KEY = os.getenv("AIO_KEY")
         else:
